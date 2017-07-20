@@ -1,4 +1,4 @@
-callback({
+{
   booklist:
   [
     {
@@ -86,4 +86,4 @@ callback({
       ]
     }
   ]
-})
+}
